@@ -1,0 +1,21 @@
+{
+  "scripts": {
+    "test": "gulp test",
+    "watch": "gulp watch"
+  },
+  "dependencies": {
+    "async": "latest",
+    "mongodb": "latest "
+  },
+  "devDependencies": {
+    "gulp": "latest",
+    "gulp-mocha": "latest",
+    "mocha": "latest"
+  },
+  "name": "chapter1-homework",
+  "description": "For this section's assessment, you will fill out the functions defined in `interface.js`. These functions will query a collection of movies - the data in the movies collection will look like what you see in the `movies.json` file.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Edward Ovares",
+  "license": "ISC"
+}

@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "test": "gulp test",
+    "watch": "gulp watch"
+  },
+  "dependencies": {
+    "mongoose": "latest"
+  },
+  "devDependencies": {
+    "gulp": "latest",
+    "gulp-mocha": "latest",
+    "mocha": "latest"
+  }
+}
